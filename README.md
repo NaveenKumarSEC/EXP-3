@@ -59,17 +59,30 @@ Quantity
 •  Circuit is tested for all possible combination of switch positions.
 
 
-## Direct connection: 
+
 
 ## CIRCUIT DIAGRAM: 
 
-### Tabulation:1
-	
-## Cross connection: 
+a)SPDT(XNOR):
 
-## CIRCUIT DIAGRAM:
 
-### Tabulation:2
+<img width="909" height="537" alt="image" src="https://github.com/user-attachments/assets/57dbc512-9494-4c5f-800c-5045a7c9426c" />
+
+
+b)SPDT(XOR):
+
+
+<img width="988" height="497" alt="image" src="https://github.com/user-attachments/assets/695353d6-f848-4525-b7bb-944ecefcaff5" />
+
+
+![WhatsApp Image 2025-11-21 at 19 03 16_546a32b6](https://github.com/user-attachments/assets/79990e22-14d0-4d88-b3a2-b3ee7b83bc84)
+
+
+![WhatsApp Image 2025-11-21 at 19 03 32_3ef22e33](https://github.com/user-attachments/assets/f3246723-9063-4ccc-acbe-35c855ebaf1e)
+
+
+![WhatsApp Image 2025-11-21 at 19 03 46_2c383e3a](https://github.com/user-attachments/assets/840f5bbf-4609-4e57-bb45-ca14e5df4fa6)
+
 
 ## RESULT:
 
